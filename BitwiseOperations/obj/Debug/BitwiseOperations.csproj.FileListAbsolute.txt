@@ -1,0 +1,6 @@
+D:\Programming\C#Tests\CsTests\BitwiseOperations\bin\Debug\BitwiseOperations.exe.config
+D:\Programming\C#Tests\CsTests\BitwiseOperations\bin\Debug\BitwiseOperations.exe
+D:\Programming\C#Tests\CsTests\BitwiseOperations\bin\Debug\BitwiseOperations.pdb
+D:\Programming\C#Tests\CsTests\BitwiseOperations\obj\Debug\BitwiseOperations.csprojResolveAssemblyReference.cache
+D:\Programming\C#Tests\CsTests\BitwiseOperations\obj\Debug\BitwiseOperations.exe
+D:\Programming\C#Tests\CsTests\BitwiseOperations\obj\Debug\BitwiseOperations.pdb

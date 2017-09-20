@@ -1,0 +1,5 @@
+D:\Programming\C#Tests\CsTests\IEnumerable\bin\Debug\IEnumerable.exe.config
+D:\Programming\C#Tests\CsTests\IEnumerable\bin\Debug\IEnumerable.exe
+D:\Programming\C#Tests\CsTests\IEnumerable\bin\Debug\IEnumerable.pdb
+D:\Programming\C#Tests\CsTests\IEnumerable\obj\Debug\IEnumerable.exe
+D:\Programming\C#Tests\CsTests\IEnumerable\obj\Debug\IEnumerable.pdb

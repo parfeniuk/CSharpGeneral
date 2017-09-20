@@ -1,0 +1,6 @@
+D:\Programming\C#Tests\CsTests\01.LINQ\bin\Debug\01.LINQ.exe.config
+D:\Programming\C#Tests\CsTests\01.LINQ\bin\Debug\01.LINQ.exe
+D:\Programming\C#Tests\CsTests\01.LINQ\bin\Debug\01.LINQ.pdb
+D:\Programming\C#Tests\CsTests\01.LINQ\obj\Debug\01.LINQ.csprojResolveAssemblyReference.cache
+D:\Programming\C#Tests\CsTests\01.LINQ\obj\Debug\01.LINQ.exe
+D:\Programming\C#Tests\CsTests\01.LINQ\obj\Debug\01.LINQ.pdb

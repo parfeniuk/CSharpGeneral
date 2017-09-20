@@ -1,0 +1,6 @@
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\bin\Debug\02.Inheritance_Pet.exe.config
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\bin\Debug\02.Inheritance_Pet.exe
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\bin\Debug\02.Inheritance_Pet.pdb
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\obj\Debug\02.Inheritance_Pet.exe
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\obj\Debug\02.Inheritance_Pet.pdb
+D:\Programming\C#Tests\CsTests\02.Inheritance_Pet\obj\Debug\02.Inheritance_Pet.csprojResolveAssemblyReference.cache

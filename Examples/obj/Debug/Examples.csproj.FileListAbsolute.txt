@@ -1,0 +1,6 @@
+D:\Programming\C#Tests\CsTests\Examples\bin\Debug\Examples.exe.config
+D:\Programming\C#Tests\CsTests\Examples\bin\Debug\Examples.exe
+D:\Programming\C#Tests\CsTests\Examples\bin\Debug\Examples.pdb
+D:\Programming\C#Tests\CsTests\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+D:\Programming\C#Tests\CsTests\Examples\obj\Debug\Examples.exe
+D:\Programming\C#Tests\CsTests\Examples\obj\Debug\Examples.pdb
